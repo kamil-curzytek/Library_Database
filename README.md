@@ -5,7 +5,7 @@ tkinter, sqlite3
 
 # Description
 
-Application which manage library database and allows users to view, add, update, search and delete book title, author, year and ISBN using GUI
+Application which manages library database and allows users to view, add, update, search and delete book title, author, year and ISBN using GUI
 
 # Files
 
